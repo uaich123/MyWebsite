@@ -2,7 +2,7 @@
   "name": "react-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://uaich123.github.io/MyWebsite/homepage",
+  "homepage": "https://uaich123.github.io/MyWebsite/home",
   "type": "module",
   "scripts": {
     "dev": "vite",
