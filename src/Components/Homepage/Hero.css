@@ -1,0 +1,6 @@
+.quote {
+    opacity: 0;
+    animation: fadeIn 1s 1.4s forwards ease-in-out;
+    border: 2px solid gray;
+    margin-top: 15px;
+}

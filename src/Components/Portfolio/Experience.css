@@ -1,0 +1,38 @@
+.experience-section {
+    text-align: left;
+    padding: 0 25px;
+}
+.experience-section h2 {
+    margin-bottom: 10px;
+}
+.experience-section hr {
+    margin: 10px 0;
+    width: 100%;
+}
+.experience-section ul {
+    margin-left: 10px;
+    margin: 0;
+    list-style-position: outside;
+    padding-left: 25px; 
+}
+.experience-section .listElm  {
+    margin: 20px 0;
+    font-size: 1rem;
+    margin-left: 10px
+}
+.experience-section .company {
+    margin: 15px;
+    margin-bottom: 20px;
+    font-size: 1.17em;
+    margin-left: 0;
+}
+.experience-section .position {
+    font-size: 1.13em;
+    margin-left: 10px
+}
+.experience-section .date {
+    margin-left: 10px
+}
+.experience-section .points {
+    margin-left: 10px
+}

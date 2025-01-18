@@ -1,0 +1,27 @@
+.project-section {
+    text-align: left;
+    padding: 0 25px;
+}
+.project-section h2 {
+    margin-bottom: 10px;
+}
+.hr {
+    width: 100%;
+}
+.project-points {
+    list-style-type: circle;
+    list-style-position: outside;
+    padding-left: 25px; 
+    margin: 0;
+}
+.project-points li {
+    margin-bottom: 20px; 
+    font-size: 1rem;
+}
+.project-section .projectBold {
+    font-size: 1.17em;
+}
+.project-section .projectName {
+    font-size: 1rem;
+}
+

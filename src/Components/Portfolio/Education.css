@@ -1,0 +1,31 @@
+.schools {
+    text-align: left; 
+    margin-left: 20px; 
+    padding: 10px; 
+}
+
+.schools h2 {
+    margin-bottom: 10px; 
+}
+
+.schools hr {
+    margin: 10px 0; 
+    width: 99%;
+}
+
+.schools ul {
+    list-style-position: outside;
+    padding-left: 20px; 
+    margin: 0; 
+    margin-left: 10px;
+}
+
+.schools li {
+    margin-bottom: 20px; 
+    font-size: 1rem;
+}
+
+
+.schools li p {
+    margin: 5px 0; 
+}
