@@ -23,5 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-#ImportantInfo
-src/Info.js
