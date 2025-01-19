@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   BROWSER: "/Applications/Opera\ GX.app ",
   plugins: [react()],
-  base: "/MyWebsite/",
+  base: "/",
 })

@@ -1,6 +1,6 @@
 .home-header {
     text-align: center;
-    padding: 20px;
+    padding: 2.5vh;
 }
 
 .welcome {
@@ -16,8 +16,8 @@
     list-style: none;
 }
 .home-nav li {
-    margin: 0 15px; 
-    padding: 10px 20px; 
+    margin: 0 1.87vh; 
+    padding: 10px 2.5vh; 
     border: 1px solid #256;
     border-radius: 10px;
     transition: background-color 0.3s ease, transform 0.3s ease; 
