@@ -3,13 +3,12 @@ import Home from './pages/Home.jsx'
 import About from './pages/About.jsx'
 import Contact from './pages/Contact.jsx'
 import Blog from './pages/Blog.jsx'
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom"; // Use HashRouter
 import Portfolio from './pages/Portfolio.jsx'
-
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
@@ -18,8 +17,8 @@ function App() {
         <Route path="/blog" element={<Blog />} />
         <Route path="/portfolio" element={<Portfolio />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
-export default App
+export default App;
