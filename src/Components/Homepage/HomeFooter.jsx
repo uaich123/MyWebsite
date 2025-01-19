@@ -10,10 +10,10 @@ export default function HomeFooter() {
             <div className="social-icons">
                 <p>Connect with me:</p>
                 <a href="https://github.com/uaich123" target="_blank" rel="noopener noreferrer">
-                    <img src="/githublogo.png" alt="Visit my GitHub Profile" className="social-icon"/>
+                <img src="/MyWebsite/githublogo.png" alt="Visit my GitHub Profile" className="social-icon" />
                 </a>
                 <a href="https://www.linkedin.com/in/urjit-aich-26416a309/" target="_blank" rel="noopener noreferrer">
-                    <img src="/linkedInlogo.png" alt="Connect with me on LinkedIn" className="social-icon"/>
+                    <img src="/MyWebsite/linkedInlogo.png" alt="Connect with me on LinkedIn" className="social-icon"/>
                 </a>
             </div>
         </footer>

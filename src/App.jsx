@@ -3,7 +3,7 @@ import Home from './pages/Home.jsx'
 import About from './pages/About.jsx'
 import Contact from './pages/Contact.jsx'
 import Blog from './pages/Blog.jsx'
-import { HashRouter, Routes, Route } from "react-router-dom"; // Use HashRouter
+import { HashRouter, Routes, Route } from "react-router-dom"; 
 import Portfolio from './pages/Portfolio.jsx'
 
 function App() {
